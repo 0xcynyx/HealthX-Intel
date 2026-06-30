@@ -6,6 +6,9 @@ dark, Chillax-typed UI and a live 5-minute sync.
 
 > **Information only — not medical advice.** Every score is a transparent heuristic. Verify anything
 > important with a qualified clinician.
+>
+
+demo: [healthX-intel](https://healthx-intel.0xcynyx.tech/)
 
 ---
 
