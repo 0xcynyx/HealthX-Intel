@@ -1,4 +1,5 @@
 # HealthX-Intel
+Sally AI from [console.a1c.io](console.a1c.io) x X MCP
 
 A personal dashboard that monitors **health influencers on X**, cross-references their advice
 against **your own biomarkers via Sally (A1C)**, and flags **risky emerging health trends** — with a
